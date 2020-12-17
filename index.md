@@ -23,7 +23,7 @@ Con la etiqueta P nos permite escribir un parrafo.<br/>Con la etiqueta P nos per
 <p>
 Si usamos la etiqueta hr podemos hacer una linea que divida el texto
 </p>
-//<!– Si escribes esto de esta forma funcionaa como un comentario y no afecta la pagina –>
+<!– Si escribes esto de esta forma funcionaa como un comentario y no afecta la pagina –>
 <hr/>
 
 <h2>
