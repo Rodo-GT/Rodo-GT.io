@@ -1,0 +1,48 @@
+<html>
+
+<head>
+
+<title> 
+
+Mi primer titulo en la pestaña
+
+</title>
+
+
+</head>
+
+<body>
+
+<h1><p align ="center">Este es el encabezado o titulo que va antes del texto </p> 
+</h1>
+<p style="font-size: 20px; color:#1d1778; background-color: yellow; border-style: dotted;border-width: 10px;">
+Con la etiqueta P nos permite escribir un parrafo.<br/>Con la etiqueta P nos permite escribir un parrafo.<br/>Con la etiqueta P nos permite escribir un parrafo.<br/>Con la etiqueta P nos permite escribir un parrafo.<br/>Con la etiqueta P nos permite escribir un parrafo.<br/>Con la etiqueta P nos permite escribir un parrafo.<br/>Con la etiqueta P nos permite escribir un parrafo.<br/>Con la etiqueta P nos permite escribir un parrafo.<br/> con la etiqueta BR podemos saltar renglon 
+</p>
+
+<hr/>
+<p>
+Si usamos la etiqueta hr podemos hacer una linea que divida el texto
+</p>
+<!– Si escribes esto de esta forma funcionaa como un comentario y no afecta la pagina –>
+<hr/>
+
+<h2>
+Con h2 podemos hacer un segundo titulo o subtitulo
+</h2>
+<h3>
+Con h3 podemos hacer un tercer titulo o subtitulo
+<p>
+si le das click a esta imagen te lleva a mi canal.<br/>
+<a href="https://www.youtube.com/channel/UCsGvFuhaxe9RyJ_YBAXDLHw?view_as=subscriber">
+<img src="Logo.png"
+width= "200"
+height= "200">
+</a>
+</p>
+
+</h3>
+
+
+</body>
+
+</html>
